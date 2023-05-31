@@ -10,7 +10,7 @@ package.name = kivy_pong_demo
 package.domain = org.kivy
 
 # (str) Source code where the main.py live
-source.dir = ../kivy_pong_demo
+source.dir = ./
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas
