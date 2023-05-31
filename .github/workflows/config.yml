@@ -31,7 +31,6 @@ jobs:
         id: buildozer
         with:
           command: buildozer android debug
-          workdir: packaging
           buildozer_version: master
 
       - name: Upload artifacts
